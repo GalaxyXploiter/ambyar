@@ -55,7 +55,7 @@ then
 sleep 1
   echo "Ingin Tidak Galau?"
 sleep 1
-  echo "Tidurlah!, Karena Pikiran Itu akan Hilang selepas bangu>
+  echo "Tidurlah!, Karena Pikiran Itu akan Hilang selepas bangun"
 sleep 1
   echo "Tidak Bisa Tidur?"
 sleep 1
